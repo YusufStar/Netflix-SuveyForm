@@ -10,6 +10,7 @@
 body {
   background-image: url(https://www.notebookcheck.biz/fileadmin/Notebooks/News/_nc3/netflixteaser.png);
   background-size: cover;
+  background-position: no-repeat;
   color: white;
 }
 
